@@ -16,22 +16,22 @@ The code package contains two sets of training and development data
 ## Tagset
 We will use the following set of 16 part of speech tags for the classification
 
-ADJ adjective
-ADV adverb
-IN preposition
-PART particle (e.g. after verb, looks like a preposition)
-PRON pronoun
-NUM number
-CONJ conjunction
-UH filler, exclamation
-TO infinitive
-VERB verb
-MODAL modal verb
-DET determiner
-NOUN noun
-PERIOD end of sentence punctuation
-PUNCT other punctuation
-X miscellaneous hard-to-classify items
+ADJ adjective <br>
+ADV adverb <br>
+IN preposition <br>
+PART particle (e.g. after verb, looks like a preposition) <br>
+PRON pronoun <br>
+NUM number <br>
+CONJ conjunction <br>
+UH filler, exclamation <br>
+TO infinitive <br>
+VERB verb <br>
+MODAL modal verb <br>
+DET determiner <br>
+NOUN noun <br>
+PERIOD end of sentence punctuation <br>
+PUNCT other punctuation <br>
+X miscellaneous hard-to-classify items <br>
 
 ## Running Classifier
 Here is an example of how to run the code on the Brown corpus data:
