@@ -1,4 +1,4 @@
-# Part-of-Speech classifier using Viterbi algorithm
+# Part-of-Speech tagger using Viterbi algorithm
 
 Hidden Markov Model Part-of-Speech classifier using Viterbi algorithm
 
@@ -33,7 +33,7 @@ PERIOD end of sentence punctuation <br>
 PUNCT other punctuation <br>
 X miscellaneous hard-to-classify items <br>
 
-## Running Classifier
+## Running Tagger
 Here is an example of how to run the code on the Brown corpus data:
 
     python3 mp4.py --train data/brown-training.txt --test data/brown-dev.txt
